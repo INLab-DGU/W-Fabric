@@ -1,6 +1,6 @@
 # W-Fabric
 
-Fabric blockchain can be connected to **Watchdog Network** by using W-Fabric instead of [the official Fabric Source Code] (https://github.com/hyperledger/fabric.git).
+Fabric blockchain can be connected to **Watchdog Network** by using W-Fabric instead of [the official Fabric Source Code](https://github.com/hyperledger/fabric.git).
 
 **Prerequisite**
 - Install MongoDB Driver on your host machine running Fabric
